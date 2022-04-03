@@ -25,8 +25,8 @@ int subArraySum(int arr[], int n, int sum)
 
 int main()
 {
-	int size;
-	int sum;
+    int size;
+    int sum;
     cout << "Array Length : ";
     cin>> size;
     int arr[size];
